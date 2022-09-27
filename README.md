@@ -1,11 +1,13 @@
 # App-CRUD-Python-MySQL
 
-INSTALL LIBRARY MYSQL-CONNECTOR DI CONSOLE DENGAN MENGETIKAN PERINTAH :
+Install Library mysql-connector di Console dengan mengetikkan perintah :
   pip install mysql-connector-python
 
-SELANJUTNYA RESTART CODE EDITOR ANDA
+Selanjutnya restart code editor anda
 
-IMPORT DATABASE YANG TERSEDIA KEDALAM MYSQL
+import database ke dalam mysql
 
-LALU JALANKAN APLIKASI PYTHON TERSEBUT 
+edit koneksi didalam script python tersebut
+
+jalankan aplikasi python tersebut
 
